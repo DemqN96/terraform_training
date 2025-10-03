@@ -1,0 +1,14 @@
+# Terraform files - Файли Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Sensitive files - Чутливі файли  
+terraform.tfvars
+*.pem
+*.key
+
+# OS files - Файли ОС
+.DS_Store
+Thumbs.db
