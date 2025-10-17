@@ -12,3 +12,5 @@ terraform.tfvars
 # OS files - Файли ОС
 .DS_Store
 Thumbs.db
+
+README.md
